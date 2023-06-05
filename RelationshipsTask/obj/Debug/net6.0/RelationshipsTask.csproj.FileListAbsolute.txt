@@ -1,0 +1,8 @@
+C:\Users\Manuela\Desktop\code academy\Homeworks\RelationshipsTask\RelationshipsTask\obj\Debug\net6.0\RelationshipsTask.csproj.AssemblyReference.cache
+C:\Users\Manuela\Desktop\code academy\Homeworks\RelationshipsTask\RelationshipsTask\obj\Debug\net6.0\RelationshipsTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manuela\Desktop\code academy\Homeworks\RelationshipsTask\RelationshipsTask\obj\Debug\net6.0\RelationshipsTask.AssemblyInfoInputs.cache
+C:\Users\Manuela\Desktop\code academy\Homeworks\RelationshipsTask\RelationshipsTask\obj\Debug\net6.0\RelationshipsTask.AssemblyInfo.cs
+C:\Users\Manuela\Desktop\code academy\Homeworks\RelationshipsTask\RelationshipsTask\obj\Debug\net6.0\RelationshipsTask.csproj.CoreCompileInputs.cache
+C:\Users\Manuela\Desktop\code academy\Homeworks\RelationshipsTask\RelationshipsTask\obj\Debug\net6.0\RelationshipsTask.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Manuela\Desktop\code academy\Homeworks\RelationshipsTask\RelationshipsTask\obj\Debug\net6.0\RelationshipsTask.RazorAssemblyInfo.cache
+C:\Users\Manuela\Desktop\code academy\Homeworks\RelationshipsTask\RelationshipsTask\obj\Debug\net6.0\RelationshipsTask.RazorAssemblyInfo.cs
